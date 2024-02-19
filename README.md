@@ -1,1 +1,1 @@
-# anotherJSONMock
+https://my-json-server.typicode.com/smilesr/anotherJSONMock
