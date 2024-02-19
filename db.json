@@ -1,6 +1,8 @@
 {
-  "firstName"   : "Joseph",
-  "lastName"    : "Mower",
-  "state"       : "Vermont",
-  "professions" : [ "Carpenter", "General" ]
+  "profile": {
+    "firstName"   : "Joseph",
+    "lastName"    : "Mower",
+    "state"       : "Vermont",
+    "professions" : [ "Carpenter", "General" ]
+  }
 }
